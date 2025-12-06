@@ -1,0 +1,91 @@
+2025-11-22T13:55:11Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=postgres port=5432 db=postgres
+2025-11-22T13:55:11Z INFO  DB connect ok
+2025-11-22T13:55:11Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-11-22T14:00:10Z INFO  DB connect ok
+2025-11-22T14:00:10Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-11-22T14:05:08Z INFO  DB connect ok
+2025-11-22T14:05:08Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T07:14:56Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=postgres port=5432 db=postgres
+2025-12-06T07:14:56Z INFO  DB connect ok
+2025-12-06T07:14:56Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T07:18:55Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=postgres port=5432 db=postgres
+2025-12-06T07:18:55Z INFO  DB connect ok
+2025-12-06T07:18:55Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T07:23:55Z INFO  DB connect ok
+2025-12-06T07:23:55Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T07:28:55Z INFO  DB connect ok
+2025-12-06T07:28:55Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T07:33:55Z INFO  DB connect ok
+2025-12-06T07:33:55Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T07:38:55Z INFO  DB connect ok
+2025-12-06T07:38:55Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T07:43:55Z INFO  DB connect ok
+2025-12-06T07:43:55Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T07:47:58Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=postgres port=5432 db=postgres
+2025-12-06T07:47:58Z INFO  DB connect ok
+2025-12-06T07:47:58Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T08:07:26Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=postgres port=5432 db=postgres
+2025-12-06T08:07:26Z INFO  DB connect ok
+2025-12-06T08:07:26Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T08:17:36Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=postgres port=5432 db=postgres
+2025-12-06T08:17:36Z INFO  DB connect ok
+2025-12-06T08:17:36Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T08:21:31Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=postgres port=5432 db=postgres
+2025-12-06T08:21:31Z INFO  DB connect ok
+2025-12-06T08:21:31Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T08:25:09Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=postgres port=5432 db=postgres
+2025-12-06T08:25:09Z INFO  DB connect ok
+2025-12-06T08:25:09Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T08:30:09Z INFO  DB connect ok
+2025-12-06T08:30:09Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T08:35:09Z INFO  DB connect ok
+2025-12-06T08:35:09Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T08:36:41Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=postgres port=5432 db=postgres
+2025-12-06T08:36:41Z INFO  DB connect ok
+2025-12-06T08:36:41Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T08:41:24Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=postgres port=5432 db=postgres
+2025-12-06T08:41:24Z INFO  DB connect ok
+2025-12-06T08:41:24Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T08:46:15Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=postgres port=5432 db=postgres
+2025-12-06T08:46:15Z INFO  DB connect ok
+2025-12-06T08:46:15Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T08:49:34Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=postgres port=5432 db=postgres
+2025-12-06T08:49:34Z INFO  DB connect ok
+2025-12-06T08:49:35Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T08:54:34Z INFO  DB connect ok
+2025-12-06T08:54:34Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T08:59:34Z INFO  DB connect ok
+2025-12-06T08:59:34Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T09:04:34Z INFO  DB connect ok
+2025-12-06T09:04:34Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T09:09:34Z INFO  DB connect ok
+2025-12-06T09:09:34Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T09:15:24Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=db port=5432 db=postgres
+2025-12-06T09:15:24Z INFO  DB connect ok
+2025-12-06T09:15:24Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T09:17:22Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=db port=5432 db=postgres
+2025-12-06T09:17:22Z INFO  DB connect ok
+2025-12-06T09:17:22Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T09:22:22Z INFO  DB connect ok
+2025-12-06T09:22:22Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T09:27:22Z INFO  DB connect ok
+2025-12-06T09:27:22Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T09:32:22Z INFO  DB connect ok
+2025-12-06T09:32:22Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T09:35:07Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=db port=5432 db=postgres
+2025-12-06T09:35:07Z INFO  DB connect ok
+2025-12-06T09:35:07Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T09:36:28Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=db port=5432 db=postgres
+2025-12-06T09:36:28Z INFO  DB connect ok
+2025-12-06T09:36:28Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T09:41:03Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=db port=5432 db=postgres
+2025-12-06T09:41:03Z INFO  DB connect ok
+2025-12-06T09:41:03Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T09:43:09Z INFO  Starting pg pinger. interval=5m0s timeout=5s host=db port=5432 db=postgres
+2025-12-06T09:43:09Z INFO  DB connect ok
+2025-12-06T09:43:09Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T09:47:50Z INFO  Starting pg pinger. interval=5m0s timeout=4m30s host=db port=5432 db=postgres
+2025-12-06T09:47:50Z INFO  DB connect ok
+2025-12-06T09:47:50Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+2025-12-06T09:52:50Z INFO  DB connect ok
+2025-12-06T09:52:50Z INFO  VERSION(): PostgreSQL 18.0 (Debian 18.0-1.pgdg13+3) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
