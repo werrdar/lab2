@@ -1,0 +1,18 @@
+services:
+  postgres:
+    image: sdl/postgres:ru
+    container_name: postgres
+    environment:
+      POSTGRES_PASSWORD: 12345678
+    ports:
+      - "25432:5432"
+
+  pg-pinger:
+    build: .
+    container_name: pg-pinger
+    depends_on:
+      - postgres
+    env_file:
+      - ./pg-pinger.env
+    volumes:
+      - ./logs:/app/logs

@@ -1,0 +1,37 @@
+services:
+  db:
+    image: sdl/postgres:ru
+    container_name: postgres
+    restart: always
+    shm_size: 512mb
+    volumes:
+      - ./pg_data:/var/lib/postgresql
+    environment:
+      POSTGRES_PASSWORD: 12345678
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d postgres"]
+      interval: 10s
+      timeout: 10s
+      retries: 5
+
+  adminer:
+    image: adminer
+    container_name: adminer
+    restart: always
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+
+  pg-pinger:
+    build:
+      context: ./pg-pinger
+    container_name: pg-pinger
+    restart: always
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file:
+      - ./pg-pinger/pg-pinger.env
+    volumes:
+      - ./logs:/app/logs
